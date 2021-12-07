@@ -1,10 +1,11 @@
 // Auto-generated. Do not edit.
-declare namespace spaceCpp {
+declare namespace spaceBlock {
 
     /**
-     *
+     * textCpp
      */
-    //% weight=0 shim=spaceCpp::fooCpp
+    //% blockId=un_id block ="name %name"
+    //% color="#AA278D" shim=spaceBlock::fooCpp
     function fooCpp(name: int16): number;
 }
 

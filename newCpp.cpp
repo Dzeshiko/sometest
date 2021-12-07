@@ -4,11 +4,12 @@
 
 using namespace pxt;
 
-namespace spaceCpp {
-/**
-*
-*/
-//% weight=0
+namespace spaceBlock {
+   /**
+    * textCpp
+    */
+    //% blockId=un_id block ="name %name"
+    //% color="#AA278D"
     float fooCpp(int16_t name) {
         return name / 1023.0;
     }

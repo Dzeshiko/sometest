@@ -1,1 +1,1 @@
-basic.showNumber(spaceTs.fooTs(0))
+basic.showNumber(spaceBlock.fooCpp(5))
